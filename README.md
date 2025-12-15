@@ -97,8 +97,9 @@ dist\
 
 4️⃣ Install via JSGME 
 
-Unzip "IL2 Rank mod light" and copy the unzipped folder into your IL-2 MODS directory
-Copy the rank_promotion_checker_light.exe into <IL-2 MODS directory>\IL-2 Rank mod light\data\Career
+Unzip "IL2 Rank mod light" and copy the unzipped folder into your IL-2 MODS directory.
+Copy the rank_promotion_checker_light.exe into 
+<IL-2 MODS directory>\IL-2 Rank mod light\data\Career
 
 Enable it using JGSME
 
@@ -109,7 +110,7 @@ You can either:
 
 Run rank_promotion_checker_light.exe manually before starting IL-2, or
 
-Copy it into your Windows Autostart folder (recommended)
+Copy it into your Windows Autostart folder %APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup (recommended)
 
 Placing the EXE in Autostart ensures the mod always runs automatically when Windows starts.
 
