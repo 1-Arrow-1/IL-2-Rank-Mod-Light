@@ -74,6 +74,7 @@ Optional (for building):
 pyinstaller
 
 Installation (Source Version)
+
 1️⃣ Clone or download the repository
 git clone https://github.com/<your-repo>/il2-rank-mod-light.git
 
@@ -92,19 +93,16 @@ pyinstaller rank_promotion_checker_light.spec
 
 After a successful build, the executable will be located in:
 
-dist/rank_promotion_checker_light/
+dist/
 
 4️⃣ Install via JSGME / OvGME
 
 Copy the mod folder into your IL-2 MODS directory
 
-Enable it using JGSME / OvGME
-
-Copy the built EXE to:
-
-<IL-2 Game Directory>\data\Career
+Enable it using JGSME
 
 5️⃣ Run the executable
+<IL-2 Game Directory>\data\Career\rank_promotion_checker_light.exe
 
 You can either:
 
