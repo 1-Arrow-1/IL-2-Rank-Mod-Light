@@ -93,11 +93,12 @@ pyinstaller rank_promotion_checker_light.spec
 
 After a successful build, the executable will be located in:
 
-dist/
+dist\
 
-4️⃣ Install via JSGME / OvGME
+4️⃣ Install via JSGME 
 
-Copy the mod folder into your IL-2 MODS directory
+Unzip "IL2 Rank mod light" and copy the unzipped folder into your IL-2 MODS directory
+Copy the rank_promotion_checker_light.exe into <IL-2 MODS directory>\IL-2 Rank mod light\data\Career
 
 Enable it using JGSME
 
